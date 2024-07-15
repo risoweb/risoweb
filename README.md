@@ -1,7 +1,6 @@
 # Olá, eu sou Ilson Ricardo 👋 😄
 
-Esse  é o meu perfil em projetos Open-Source na plataforma [DIO](https://www.dio.me/)
-
+Esse  é o meu perfil em projetos Open-Source
 #### Designer Gráfico com habilidades em Engenharia de Software
 
 *(Castanhal, PA - Brasil)*

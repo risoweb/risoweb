@@ -8,7 +8,8 @@ Esse  é o meu perfil em projetos Open-Source
 
 
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)                | [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)][ ((https://seulink.com)](https://sites.google.com/view/ilsonricardo/home)) |  [![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](#link) |  [celula]
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)     | [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)[(https://sites.google.com/view/ilsonricardo/home)] 
+|  [![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](#link) |  [celula]
 | --- | --- | --- | --- |
 - 👋 Hi, I’m @risoweb
 - 👀 I’m interested in react-three-fiber
